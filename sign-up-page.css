@@ -1,0 +1,150 @@
+.online-friends-pana-1 {
+    position: absolute;
+    top: 84px;
+    left: 83px;
+    width: 754px;
+    height: 754px;
+    object-fit: cover;
+  }
+  .welcome-onboard {
+    position: absolute;
+    top: 84px;
+    left: 906px;
+    font-size: var(--font-size-3xl);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 394px;
+    height: 31px;
+  }
+  .lets-help-you {
+    position: absolute;
+    top: 130px;
+    left: 927px;
+    font-weight: 300;
+    display: inline-block;
+    width: 387px;
+    height: 31px;
+  }
+  .frame-inner {
+    border: 0;
+    font-family: var(--font-mulish);
+    font-size: var(--font-size-xl);
+    background-color: transparent;
+  }
+  .frame-inner,
+  .group-select {
+    position: relative;
+    width: 437px;
+    height: 53px;
+    flex-shrink: 0;
+  }
+  .button-item,
+  .get-started1 {
+    position: absolute;
+    height: 100%;
+    top: 0;
+  }
+  .button-item {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: var(--color-royalblue);
+    width: 99.69%;
+    right: 0;
+    bottom: 0;
+    left: 0.31%;
+    border-radius: var(--br-8xs);
+  }
+  .get-started1 {
+    width: 100%;
+    left: 0;
+    font-size: var(--font-size-lg);
+    font-weight: 800;
+    font-family: var(--font-mulish);
+    color: var(--color-white);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .button2,
+  .button3 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+  }
+  .button3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-8xs);
+  }
+  .button2 {
+    position: relative;
+    box-shadow: 0 2px 1px rgba(0, 0, 0, 0.05);
+    width: 437px;
+    height: 60px;
+    flex-shrink: 0;
+  }
+  .group-container {
+    position: absolute;
+    top: 176px;
+    left: 927px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-26xl);
+  }
+  .you-acknowledge-that1 {
+    font-weight: 300;
+  }
+  .terms-of-service1 {
+    font-weight: 600;
+  }
+  .already-have-an,
+  .you-acknowledge-that-container1 {
+    position: absolute;
+    top: 781px;
+    left: 939px;
+    display: inline-block;
+    width: 410px;
+    height: 37px;
+  }
+  .already-have-an {
+    text-decoration: none;
+    top: 841px;
+    left: 980px;
+    font-weight: 500;
+    color: var(--color-orangered);
+    width: 329px;
+    height: 21px;
+    cursor: pointer;
+  }
+  .image-22-icon1 {
+    position: absolute;
+    top: 42px;
+    left: 41px;
+    border-radius: 1.65px;
+    width: 181.88px;
+    height: 119px;
+    object-fit: cover;
+  }
+  .sign-up-page {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 982px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-lg);
+    color: var(--color-black);
+    font-family: var(--font-mulish);
+  }
+  

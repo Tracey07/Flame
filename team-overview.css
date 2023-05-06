@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./team-overview.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="team-overview">
+      <div class="team-overview-child"></div>
+      <div class="team-overview-item"></div>
+      <div class="ellipse-parent6">
+        <img class="frame-child17" alt="" src="./public/ellipse-19@2x.png" />
+
+        <div class="capstone">Samuella Blankson</div>
+      </div>
+      <div class="frame-parent40">
+        <div class="material-symbolssettings-container">
+          <img
+            class="rinotification-fill-icon"
+            alt=""
+            src="./public/materialsymbolssettings1.svg"
+          />
+
+          <div class="michelle-ofori">Settings</div>
+        </div>
+        <div class="material-symbolssettings-container">
+          <img
+            class="rinotification-fill-icon"
+            alt=""
+            src="./public/materialsymbolshelpoutline1.svg"
+          />
+
+          <div class="michelle-ofori">Help</div>
+        </div>
+        <a
+          class="material-symbolslogout-rounde-container"
+          href="./sign-up-page.html"
+        >
+          <img
+            class="rinotification-fill-icon"
+            alt=""
+            src="./public/materialsymbolslogoutrounded.svg"
+          />
+
+          <div class="michelle-ofori">Logout</div>
+        </a>
+      </div>
+      <div class="frame-parent41">
+        <a class="material-symbolsdashboard-rou-container">
+          <img
+            class="rinotification-fill-icon"
+            alt=""
+            src="./public/materialsymbolsdashboardrounded.svg"
+          />
+
+          <div class="dashboard3">Dashboard</div>
+        </a>
+        <div class="material-symbolssettings-container">
+          <img
+            class="rinotification-fill-icon"
+            alt=""
+            src="./public/materialsymbolsvideocalloutline.svg"
+          />
+
+          <a class="meeting2">Meeting</a>
+        </div>
+        <div class="material-symbolssettings-container">
+          <img
+            class="rinotification-fill-icon"
+            alt=""
+            src="./public/materialsymbolschat.svg"
+          />
+
+          <div class="dashboard3">Chat</div>
+          <div class="ellipse-parent7">
+            <img class="group-child16" alt="" src="./public/ellipse-39.svg" />
+
+            <div class="div13">5</div>
+          </div>
+        </div>
+      </div>
+      <div class="teams-parent">
+        <b class="michelle-ofori">TEAMS</b>
+        <div class="frame-parent42">
+          <div class="frame-wrapper10">
+            <button class="filter-container" autofocus>
+              <div class="filter2">Filter</div>
+              <img
+                class="fluent-mdl2party-leader-icon"
+                alt=""
+                src="./public/materialsymbolsfilteraltoutline1.svg"
+              />
+            </button>
+          </div>
+          <button class="frame-parent43" autofocus>
+            <div class="sort-by-frame">
+              <div class="filter2">Sort by</div>
+            </div>
+            <img
+              class="fluent-mdl2party-leader-icon"
+              alt=""
+              src="./public/materialsymbolssort1.svg"
+            />
+          </button>
+        </div>
+      </div>
+      <div class="frame-parent44">
+        <div class="sort-by-frame">
+          <input class="frame-child18" type="text" />
+        </div>
+        <img
+          class="rinotification-fill-icon"
+          alt=""
+          src="./public/rinotificationfill.svg"
+        />
+      </div>
+      <img class="image-23-icon" alt="" src="./public/image-23@2x.png" />
+
+      <a class="frame-parent45">
+        <a class="rectangle-parent9" href="./team-overview-2.html">
+          <img
+            class="frame-child19"
+            alt=""
+            src="./public/rectangle-626@2x.png"
+          />
+
+          <div class="frame-parent46">
+            <div class="frame-parent47">
+              <div class="hci-project-parent">
+                <div class="capstone">HCI Project</div>
+                <div class="fluent-mdl2party-leader-parent">
+                  <img
+                    class="fluent-mdl2party-leader-icon"
+                    alt=""
+                    src="./public/fluentmdl2partyleader.svg"
+                  />
+
+                  <div class="michelle-ofori">Michelle Ofori</div>
+                </div>
+              </div>
+              <div class="iconoirinfo-empty-parent">
+                <img
+                  class="fluent-mdl2party-leader-icon"
+                  alt=""
+                  src="./public/iconoirinfoempty.svg"
+                />
+
+                <div class="hci-group-project">
+                  HCI group project which centers on UI/UX
+                </div>
+              </div>
+            </div>
+            <a
+              class="view-wrapper"
+              href="./team-overview-2.html"
+              id="frameLink4"
+            >
+              <div class="michelle-ofori">View</div>
+            </a>
+          </div>
+        </a>
+        <div class="rectangle-parent10">
+          <img
+            class="frame-child19"
+            alt=""
+            src="./public/rectangle-629@2x.png"
+          />
+
+          <div class="frame-parent46">
+            <div class="frame-parent49">
+              <div class="hci-project-parent">
+                <div class="capstone">Capstone</div>
+                <div class="fluent-mdl2party-leader-parent">
+                  <img
+                    class="fluent-mdl2party-leader-icon"
+                    alt=""
+                    src="./public/fluentmdl2partyleader1.svg"
+                  />
+
+                  <div class="michelle-ofori">Michelle Ofori</div>
+                </div>
+              </div>
+              <div class="iconoirinfo-empty-parent">
+                <img
+                  class="fluent-mdl2party-leader-icon"
+                  alt=""
+                  src="./public/iconoirinfoempty1.svg"
+                />
+
+                <div class="hci-group-project">
+                  Creating an ecommerce clothes website
+                </div>
+              </div>
+            </div>
+            <a class="view-container">
+              <div class="michelle-ofori">View</div>
+            </a>
+          </div>
+        </div>
+        <div class="rectangle-parent11">
+          <img
+            class="frame-child19"
+            alt=""
+            src="./public/rectangle-630@2x.png"
+          />
+
+          <div class="frame-parent46">
+            <div class="frame-parent49">
+              <div class="hci-project-parent">
+                <div class="capstone">Farming</div>
+                <div class="fluent-mdl2party-leader-parent">
+                  <img
+                    class="fluent-mdl2party-leader-icon"
+                    alt=""
+                    src="./public/fluentmdl2partyleader1.svg"
+                  />
+
+                  <div class="michelle-ofori">Michelle Ofori</div>
+                </div>
+              </div>
+              <div class="iconoirinfo-empty-parent">
+                <img
+                  class="fluent-mdl2party-leader-icon"
+                  alt=""
+                  src="./public/iconoirinfoempty1.svg"
+                />
+
+                <div class="hci-group-project">Agriculture idea pitch</div>
+              </div>
+            </div>
+            <div class="view-frame">
+              <div class="michelle-ofori">View</div>
+            </div>
+          </div>
+        </div>
+      </a>
+      <div class="frame-parent52">
+        <div class="rectangle-parent12">
+          <img
+            class="frame-child19"
+            alt=""
+            src="./public/rectangle-631@2x.png"
+          />
+
+          <div class="frame-parent46">
+            <div class="frame-parent49">
+              <div class="hci-project-parent">
+                <div class="capstone">Photography</div>
+                <div class="fluent-mdl2party-leader-parent">
+                  <img
+                    class="fluent-mdl2party-leader-icon"
+                    alt=""
+                    src="./public/fluentmdl2partyleader.svg"
+                  />
+
+                  <div class="michelle-ofori">Michelle Ofori</div>
+                </div>
+              </div>
+              <div class="iconoirinfo-empty-parent">
+                <img
+                  class="fluent-mdl2party-leader-icon"
+                  alt=""
+                  src="./public/iconoirinfoempty.svg"
+                />
+
+                <div class="hci-group-project">
+                  Fashion house clothes photography
+                </div>
+              </div>
+            </div>
+            <a class="view-container" href="./team-overview-2.html">
+              <div class="michelle-ofori">View</div>
+            </a>
+          </div>
+        </div>
+        <div class="rectangle-parent13">
+          <img
+            class="frame-child19"
+            alt=""
+            src="./public/rectangle-632@2x.png"
+          />
+
+          <div class="frame-parent46">
+            <div class="frame-parent56">
+              <div class="hci-project-parent">
+                <div class="capstone">History</div>
+                <div class="fluent-mdl2party-leader-parent">
+                  <img
+                    class="fluent-mdl2party-leader-icon"
+                    alt=""
+                    src="./public/fluentmdl2partyleader.svg"
+                  />
+
+                  <div class="michelle-ofori">Michelle Ofori</div>
+                </div>
+              </div>
+              <div class="iconoirinfo-empty-parent">
+                <img
+                  class="fluent-mdl2party-leader-icon"
+                  alt=""
+                  src="./public/iconoirinfoempty.svg"
+                />
+
+                <div class="hci-group-project">
+                  Ghana Ashanti history research.
+                </div>
+              </div>
+            </div>
+            <div class="view-frame">
+              <div class="michelle-ofori">View</div>
+            </div>
+          </div>
+        </div>
+        <div class="rectangle-parent14">
+          <img
+            class="frame-child19"
+            alt=""
+            src="./public/rectangle-633@2x.png"
+          />
+
+          <div class="frame-parent57">
+            <div class="frame-parent49">
+              <div class="hci-project-parent">
+                <div class="capstone">Forex</div>
+                <div class="fluent-mdl2party-leader-parent">
+                  <img
+                    class="fluent-mdl2party-leader-icon"
+                    alt=""
+                    src="./public/fluentmdl2partyleader1.svg"
+                  />
+
+                  <div class="michelle-ofori">Michelle Ofori</div>
+                </div>
+              </div>
+              <div class="iconoirinfo-empty-parent">
+                <img
+                  class="fluent-mdl2party-leader-icon"
+                  alt=""
+                  src="./public/iconoirinfoempty1.svg"
+                />
+
+                <div class="hci-group-project">Forex fundamentals class.</div>
+              </div>
+            </div>
+            <div class="view-frame">
+              <div class="michelle-ofori">View</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var frameLink4 = document.getElementById("frameLink4");
+      if (frameLink4) {
+        frameLink4.addEventListener("click", function (e) {
+          window.location.href = "./team-overview-2.html";
+        });
+      }
+      </script>
+  </body>
+</html>
